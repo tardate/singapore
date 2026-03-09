@@ -69,8 +69,10 @@ from either SingTel or StarHub (or possibly M1).
 
 ## Power Plugs
 
-The standard in Singapore is 230V Type G (three pin) sockets.
-![Type G](https://www.iec.ch/themes/custom/iec/images/world-plugs/types/G/G_dia_sock_l.png)
+The standard socket in Singapore is the three pin Type G (Singapore standard [SS 145](https://www.singaporestandardseshop.sg/Product/SSPdtDetail/35d38880-a825-46f8-8b0f-5d2e234b4949) based on the British [BS 1363](https://en.wikipedia.org/wiki/AC_power_plugs_and_sockets#BS_1363_(Type_G))).
+The power supplied is 230V at 50Hz.
+
+[![Type G](./images/type_g_socket.jpg)](https://en.wikipedia.org/wiki/File:Uk_13a_double_socket.jpg)
 
 Most hotels have universal plugs that work with Type C (two pin) plugs, but you should consider bringing a travel adapter just in case.
 
